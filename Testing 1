@@ -1,2 +1,5 @@
 Testing 1 
 printf('Hello world');
+printf('name : justin');
+printf('address : UOB Tower');
+printf('AGE : 15');
